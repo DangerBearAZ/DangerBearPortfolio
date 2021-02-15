@@ -74,7 +74,7 @@ header nav ul li a{
     
 
   }
-  .articals{
+  .articles{
       width: 100%;
       margin: auto;
       display: flex;
@@ -83,7 +83,7 @@ header nav ul li a{
       flex-direction: column;
   }
 
-  .artical{
+  .article{
     background: #7e42d6;
     color: #78a848;
     margin: 20px;
